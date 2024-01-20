@@ -1,0 +1,28 @@
+.heading{
+    font-size: 4rem;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 2rem 0;
+    line-height: 4rem;
+}
+
+@media (min-width: 480px){
+    .heading{
+        font-size: 6rem;
+        text-transform: uppercase;
+        text-align: center;
+        margin: 2rem 0;
+        line-height: 6rem;
+    }
+}
+
+@media (min-width: 768px){
+    .heading{
+        font-size: 8rem;
+        text-transform: uppercase;
+        text-align: center;
+        margin: 2rem 0;
+        line-height: 8rem;
+    }
+}
+

@@ -1,0 +1,28 @@
+.button{
+    width: 2.7rem;
+    height: 2.7rem;
+    background: rgb(37 99 235);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    text-decoration: none;
+    border-radius: 50%;
+    transition: all .1s ease-in-out;
+}
+
+.button svg{
+    width: 20px;
+    text-align: center;
+    color: #FFF;
+    transform: rotate(180deg);
+}
+
+.button:hover{
+    background: #1d4ed8;
+}
+
+.button:active{
+    transform: scale(0.8);
+}

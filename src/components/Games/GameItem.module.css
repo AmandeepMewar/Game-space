@@ -1,0 +1,38 @@
+
+.image-card{
+    width: 12rem;
+    height: 15rem;
+    margin: 1rem auto;
+}
+
+.game-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+
+.game-img:hover{
+    transform: scale(1.1);
+    box-shadow: 1px 1px 15px 1px rgba(255, 255, 255, 0.059);
+}
+
+.game-img:active{
+    transform: scale(1);
+}
+
+@media (min-width: 1024px){
+    .image-card{
+        width: 15rem;
+        height: 15rem;
+        margin: 1rem auto
+    }
+    .game-img{
+        height: 100%;
+    }
+}
+
+
+
+

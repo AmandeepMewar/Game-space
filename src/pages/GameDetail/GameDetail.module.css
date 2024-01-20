@@ -1,0 +1,122 @@
+.detail-page{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    color: #BCBDC0;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+.back-button{
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+}
+
+.image-card{
+    width: 15rem;
+}
+
+.image-card img{
+    width: 100%;
+}
+
+.game-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.25rem;
+    max-width: 20rem;
+    margin: 0 10px;
+}
+
+.game-info__header h1{
+    font-size: 2.5rem;
+    color: #FFF;
+    line-height: 3rem;
+}
+
+.game-info__header p{
+    font-size:22px;
+    font-weight: 600;
+}
+
+.game-info__content p{
+    font-size: 22px;
+    font-family: 100;
+}
+
+@media (min-width: 768px){
+    .detail-page{
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+        color: #BCBDC0;
+        margin: 7rem 0;
+    }
+    .image-card{
+        width: 30rem;
+        
+    }
+    .back-button{
+        position: absolute;
+        top: 3rem;
+        left: 3rem;
+    }
+    .game-info{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: unset;
+        gap: 2rem;
+        max-width: 30rem;
+        margin: 0 10px;
+    }
+    
+    .game-info__header h1{
+        font-size: 4rem;
+        color: #FFF;
+        line-height: 4.5rem;
+    }
+    
+    .game-info__header p{
+        font-size:24px;
+        font-weight: 600;
+    }
+    
+    .game-info__content p{
+        font-size: 22px;
+        font-family: 100;
+    }
+    
+}
+
+@media (min-width: 1200px){
+    .detail-page{
+        width: 100vw;
+        height: 100vh;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+        color: #BCBDC0;
+        margin: 0;
+    }
+
+    .back-button{
+        position: relative;
+        top: -5rem;
+        left: 0rem;
+    }
+    
+}
+
+

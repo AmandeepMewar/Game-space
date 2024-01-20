@@ -1,0 +1,36 @@
+@font-face {
+  font-family: c-Teko;
+  src: url(./assets/fonts/Teko/Teko-VariableFont_wght.ttf);
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+  background: #13151A;
+  overflow-x: hidden;
+  color: #FFF;
+  font-family: 'c-Teko';
+  
+}
+
+*::selection{
+  color: #000;
+  background: #FFF;
+
+}
+
+body::-webkit-scrollbar{
+  display: block;
+  background: black;
+  width: 10px;
+}
+
+body::-webkit-scrollbar-thumb{
+  background: white;
+}

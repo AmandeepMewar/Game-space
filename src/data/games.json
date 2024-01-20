@@ -1,0 +1,198 @@
+{
+    "games": [
+        {
+            "id": "1",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2015/22b37959aedcda65054b38b77cd98838b8a498ab72245d1e.png",
+            "title": "EA SPORTS™ FC 24",
+            "description": "Welcome to a new era for The World's Game that brings unrivalled authenticity to the pitch",
+            "buyURL": "https://www.xbox.com/en-in/games/store/ea-sports-fc-24-standard-edition-xbox-one--xbox-series-xs/9PJHKHWQQ3NB",
+            "genre": "Sport",
+            "platform":"PS4, PS5, Xbox Series X|S",
+            "publishedBy": "Electronic Arts",
+            "approximateSize": "61.29 GB",
+            "releaseDate": "29/09/2023"
+        },
+
+        {
+            "id": "2",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png",
+            "title": "Marvel's Spider-Man 2",
+            "description": "Spider-Men, Peter Parker and Miles Morales, return for an exciting new adventure in the critically acclaimed Marvel’s Spider-Man",
+            "buyURL": "https://www.playstation.com/en-in/games/marvels-spider-man-2/",
+            "genre": "Action",
+            "platform":"PS5",
+            "publishedBy": "Sony Interactive Entertainment",
+            "approximateSize": "98 GB",
+            "releaseDate": "20/10/2023"
+        },
+
+        {
+            "id": "3",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0116/e22efe5995a1271bc407b45e7d4a1b64bb3d9adae88b1887.png",
+            "title": "Cyberpunk 2077: Phantom Liberty",
+            "description": "Return as cyber-enhanced mercenary V and embark on a high-stakes mission of espionage and intrigue to save the NUS President.",
+            "buyURL": "https://www.xbox.com/en-IN/games/store/cyberpunk-2077-ultimate-edition/9P9G5WX8C0VH/0010",
+            "genre": "Role Playing Games, Unique",
+            "platform":"PS5, Xbox Series X|S",
+            "publishedBy": "CD Projekt",
+            "approximateSize": "39.63 GB",
+            "releaseDate": "26/09/2023"
+        },
+
+        {
+            "id": "4",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/V6WJkRhfNIQ3ePfAmrLSfGng.png",
+            "title": "Dead Island 2",
+            "description": "Immerse yourself in the heart-pounding chaos of a tropical paradise overrun by ravenous zombies in Dead Island.",
+            "buyURL": "https://www.xbox.com/en-IN/games/store/dead-island-2-deluxe-edition/9NLFKWVNWFFV/0010/9ZJJQPTRXGZ3",
+            "genre": "Action",
+            "platform":"PS4, PS5, Xbox Series X|S",
+            "publishedBy": "Deep Silver",
+            "approximateSize": "61.48 GB",
+            "releaseDate": "21/04/2023"
+        },
+
+        {
+            "id": "5",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2809/03f24f06573f21a2b3b5279b26205b0f882acf8a31d5dabd.png",
+            "title": "NBA 2K24",
+            "description": "Experience the past, present and future of hoops culture.",
+            "buyURL": "https://www.xbox.com/en-in/games/store/nba-2k24-for-xbox-series-x-s/9nt7fnz0wjm1",
+            "genre": "Sport",
+            "platform":"PS4, PS5, Xbox Series X|S",
+            "publishedBy": "2K",
+            "approximateSize": "166.26 GB",
+            "releaseDate": "08/09/2023"
+        },
+
+        {
+            "id": "6",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/phwiQjbJddEg979YucUoP3Vr.png",
+            "title": "Assassin's Creed® Mirage",
+            "description": "Experience the home of the original Assassins in this exciting new narrative-driven, open world adventure.",
+            "buyURL": "https://www.xbox.com/en-in/games/store/assassins-creed-mirage/9nzcjf5vf1nv",
+            "genre": "Action & Adventure",
+            "platform":"PS4, PS5, Xbox Series X|S",
+            "publishedBy": "Ubisoft",
+            "approximateSize": "36.71 GB",
+            "releaseDate": "05/10/2023"
+        },
+
+        {
+            "id": "7",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1722/15f4ab1e0fe6a37609b164362a653c0e5bcee98a861d0f10.png",
+            "title": "Call of Duty: Modern Warfare III",
+            "description": "The war has changed.",
+            "buyURL": "https://www.xbox.com/en-IN/games/store/call-of-duty-modern-warfare-iii-cross-gen-bundle/9NB54XTF084M/0010",
+            "genre": "Action",
+            "platform":"PS4, PS5, Xbox Series X|S",
+            "publishedBy": "Activision Blizzard Int'l BV",
+            "approximateSize": "299.69 GB",
+            "releaseDate": "02/11/2023"
+        },
+
+        {
+            "id": "8",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0710/8ad6967a749c971c1910b94d76dc33cbb0a4c5da84ec5e6d.png",
+            "title": "The Crew Motorfest",
+            "description": "Race legendary vehicles in a never-ending festival of car culture.",
+            "buyURL": "https://www.xbox.com/en-IN/games/store/the-crew-motorfest-ultimate-edition/9NX2CDFGBBH1/0010",
+            "genre": "Driving/Racing",
+            "platform":"PS4, PS5, Xbox Series X|S",
+            "publishedBy": "UBISOFT ENTERTAINMENT SA",
+            "approximateSize": "41.16 GB",
+            "releaseDate": "14/09/2023"
+        },
+
+        {
+            "id": "9",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0421/418704276d35ce02e8cb532c6ca3826cf866ad2ec66c0b17.png",
+            "title": "EA SPORTS™ UFC® 5",
+            "description": "Bring the next evolution of the fight game home.",
+            "buyURL": "https://www.xbox.com/en-IN/games/store/ufc-5-deluxe-edition/9NXTCLM90W7V/0010",
+            "genre": "Fighting",
+            "platform":"PS5, Xbox Series X|S",
+            "publishedBy": "Electronic Arts",
+            "approximateSize": "42.84 GB",
+            "releaseDate": "27/10/2023"
+        },
+
+        {
+            "id": "10",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png",
+            "title": "Street Fighter 6",
+            "description": "Hit the streets with new ways to play and fight in the next evolution of Capcom's legendary fighting series.",
+            "buyURL": "https://www.xbox.com/en-in/games/store/street-fighter-6/9nm79b7n9jm6",
+            "genre": "Fighting",
+            "platform":"PS5, Xbox Series X|S",
+            "publishedBy": "CAPCOM",
+            "approximateSize": "50.84 GB",
+            "releaseDate": "02/06/2023"
+        },
+
+        {
+            "id": "11",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/1cc63f4f4b2c9a9852fabefba4ca7eea936b1ef7867811a5.png",
+            "title": "Mortal Kombat 1",
+            "description": "Welcome to a new era of Kombat.",
+            "buyURL": "https://www.xbox.com/en-in/games/store/mortal-kombat-1/9n7271qn4sgb",
+            "genre": "Fighting",
+            "platform":"PS5, Xbox Series X|S",
+            "publishedBy": "Warner Bros",
+            "approximateSize": "161.32 GB",
+            "releaseDate": "19/09/2023"
+        },
+
+        {
+            "id": "12",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png",
+            "title": "Resident Evil 4",
+            "description": "A thrilling reimagining of Capcom's groundbreaking action-horror classic.",
+            "buyURL": "https://www.xbox.com/en-in/games/store/resident-evil-4/9n7jcppcpn37",
+            "genre": "Action & adventure",
+            "platform":"PS4, PS5, Xbox Series X|S",
+            "publishedBy": "CAPCOM",
+            "approximateSize": "85.46 GB",
+            "releaseDate": "24/03/2023"
+        },
+
+        {
+            "id": "13",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png",
+            "title": "Hogwarts Legacy",
+            "description": "Experience Hogwarts in the late 1800s and decide the fate of the wizarding world.",
+            "buyURL": "https://www.xbox.com/en-in/games/store/hogwarts-legacy-xbox-series-x-s-version/9mt5nj5w7b8z",
+            "genre": "Action & adventure, Role playing, Unique",
+            "platform":"PS4, PS5, Xbox Series X|S",
+            "publishedBy": "Warner Bros",
+            "approximateSize": "99.47 GB",
+            "releaseDate": "10/2/2023"
+        },
+
+        {
+            "id": "14",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png",
+            "title": "Baldur's Gate 3",
+            "description": "Make your mark on the Forgotten Realms in this turn-based, cinematic D&D adventure.",
+            "buyURL": "https://www.xbox.com/en-in/games/store/baldurs-gate-3/9nd58lqtg09t",
+            "genre": "Role playing, Strategy, Action & adventure",
+            "platform":"PS5, Xbox Series X|S",
+            "publishedBy": "Larian Studios",
+            "approximateSize": "137.55 GB",
+            "releaseDate": "06/09/2023"
+        },
+
+        {
+            "id": "15",
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2904/NspyF8og84Div2VMShXI4cV7.png",
+            "title": "Final Fantasy XVI",
+            "description": "Enter the dark fantasy world of Valisthea in this highly anticipated single-player action RPG.",
+            "buyURL": "https://www.playstation.com/en-in/games/final-fantasy-xvi/",
+            "genre": "Action, Role Playing",
+            "platform":"PS5",
+            "publishedBy": "Square Enix",
+            "approximateSize": "90.18 GB",
+            "releaseDate": "22/06/2023"
+        }
+    ]
+}
